@@ -14,7 +14,6 @@ namespace AspNetCoreWebApp
     {
         public static void Main(string[] args)
         {
-            int num = 3;
             CreateWebHostBuilder(args).Build().Run();
         }
 
